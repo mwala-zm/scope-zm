@@ -1,0 +1,102 @@
+{
+  "provinces": [
+    {
+      "name": "Central Province",
+      "towns": [
+        "Kabwe",
+        "Kapiri Mposhi",
+        "Mumbwa",
+        "Chibombo",
+        "Mkushi"
+      ]
+    },
+    {
+      "name": "Copperbelt Province",
+      "towns": [
+        "Ndola",
+        "Kitwe",
+        "Chingola",
+	"Chililabombwe",
+        "Luanshya",
+        "Mufulira"
+      ]
+    },
+    {
+      "name": "Eastern Province",
+      "towns": [
+        "Chipata",
+        "Kasama",
+        "Petauke",
+        "Chama",
+        "Mambwe"
+      ]
+    },
+    {
+      "name": "Luapula Province",
+      "towns": [
+        "Mansa",
+        "Samfya",
+        "Chiengi",
+        "Nchelenge"
+      ]
+    },
+    {
+      "name": "Lusaka Province",
+      "towns": [
+        "Lusaka",
+        "Kafue",
+        "Chongwe",
+        "Zimba"
+      ]
+    },
+    {
+      "name": "Muchinga Province",
+      "towns": [
+        "Chinsali",
+        "Nakonde",
+        "Isoka",
+        "Mpika",
+        "Chilubi"
+      ]
+    },
+    {
+      "name": "Northern Province",
+      "towns": [
+        "Kasama",
+        "Mbala",
+        "Nakonde",
+        "Mporokoso",
+        "Chilubi"
+      ]
+    },
+    {
+      "name": "North-Western Province",
+      "towns": [
+        "Solwezi",
+        "Chavuma",
+        "Mufumbwe",
+        "Kabompo"
+      ]
+    },
+    {
+      "name": "Southern Province",
+      "towns": [
+        "Livingstone",
+        "Choma",
+        "Monze",
+        "Mazabuka",
+        "Sinazongwe"
+      ]
+    },
+    {
+      "name": "Western Province",
+      "towns": [
+        "Mongu",
+        "Kaoma",
+        "Nkeyema",
+        "Sesheke",
+        "Limulunga"
+      ]
+    }
+  ]
+}
