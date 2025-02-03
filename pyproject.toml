@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scope-zm"
+version = "0.1.0"
+description = "Find cities in Zambia"
+requires-python = ">=3.6"
+dependencies = ["requests", "pyyaml"]
