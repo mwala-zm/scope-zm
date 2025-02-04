@@ -24,6 +24,7 @@
     - 'Lufwanyama'
     - 'Mufulira'
     - 'Kalulushi'
+
 - name: 'eastern province'
   towns:
     - 'Chipata'
@@ -31,18 +32,21 @@
     - 'Petauke'
     - 'Chama'
     - 'Mambwe'
+
 - name: 'luapula province'
   towns:
     - 'Mansa'
     - 'Samfya'
     - 'Chiengi'
     - 'Nchelenge'
+
 - name: 'lusaka province'
   towns:
-    - 'Lusaka'
-    - 'Kafue'
     - 'Chongwe'
+    - 'Kafue'
+    - 'Lusaka'
     - 'Zimba'
+
 - name: 'muchinga province'
   towns:
     - 'Chinsali'
@@ -50,19 +54,26 @@
     - 'Isoka'
     - 'Mpika'
     - 'Chilubi'
+
 - name: 'northern province'
   towns:
+    - 'Chilubi'
+    - 'Kaputa'
     - 'Kasama'
     - 'Mbala'
-    - 'Nakonde'
     - 'Mporokoso'
-    - 'Chilubi'
+    - 'Mupulungu'
+    - 'Lunte'
+    - 'Luwingu'
+    - 'Senga'
+
 - name: 'north-western province'
   towns:
     - 'Solwezi'
     - 'Chavuma'
     - 'Mufumbwe'
     - 'Kabompo'
+
 - name: 'southern province'
   towns:
     - 'Livingstone'
@@ -70,6 +81,7 @@
     - 'Monze'
     - 'Mazabuka'
     - 'Sinazongwe'
+
 - name: 'western province'
   towns:
     - 'Mongu'
