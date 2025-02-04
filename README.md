@@ -16,13 +16,13 @@ pip install scope_zm
 import scope_zm
 
 # returns 'Lusaka province'
-scope.find_province_by_city('lusaka')
+scope_zm.find_province_by_city('lusaka')
 
 # returns '["towns]'
-foobar.towns_in_central()
+scope_zm.towns_in_central()
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# returns ''
+scope_zm.get()
 ```
 
 ## Contributing
